@@ -9,3 +9,8 @@ bugers: Physics-Aware DMD Algorithm 2 for burgers' equation 5.1-5.4;
 bl:Physics-Aware DMD Algorithm 2 for Buckley-Leverette's equation 5.1-5.5;
 
 sod: Physics-Aware DMD Algorithm 2 for Sod shock tube problem 5.6.
+
+
+
+
+updated 12/06/2020
